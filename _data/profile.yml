@@ -22,7 +22,9 @@ wechat_qrcode: /assets/images/etc/wechat.png
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My name is Chaolei Wang (王朝磊). I am a master's student at Sun Yat-sen University, advised by <a href="https://ting-devin-han.github.io/Epingpages.github.io/" target="_blank">Prof. Yiping Chen</a>. My research interests include computer vision and deep learning.
+    My name is Chaolei Wang (王朝磊). I am a master's student at Sun Yat-sen University, advised by <a href="https://ting-devin-han.github.io/Epingpages.github.io/" target="_blank">Prof. Yiping Chen</a>. 
+    I am also fortunate to collaborate with <a href="https://meiliuwu.github.io/" target="_blank">Prof. Meiliu Wu</a> and 
+    <a href="https://uwaterloo.ca/geospatial-intelligence/profiles/jonathan-li/" target="_blank">Prof. Jonathan Li</a> on my research. My research interests include computer vision and deep learning.
   </p>
   <p>
     My research journey started by enhancing 3D instance segmentation with 2D semantic cues and has evolved to constructing Geo AI foundation models for geospatial applications. 
