@@ -126,9 +126,9 @@ giscus:
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@zhaoyiww/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@zhaoyiww/feed
 #  - name: Google Blog
 #    posts:
 #      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
@@ -269,7 +269,7 @@ display_categories: ["academic-articles", "external-services"] # these categorie
 
 scholar:
   last_name: [Wang]
-  first_name: [Zhaoyi]
+  first_name: [Chaolei]
 
   style: apa
   locale: en
