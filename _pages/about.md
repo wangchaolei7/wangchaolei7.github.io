@@ -32,4 +32,4 @@ I am a master's student at the [School of Geospatial Engineering and Science](ht
 
 My research centers on leveraging 2D vision-language models to advance 3D scene understanding. This exploration has broadened my focus towards the construction of GeoAI foundation models for geospatial applications. I am driven by a passion for exploring how cutting-edge vision and language technologies can be applied to large-scale point clouds and remote sensing data.
 
-<span style="color: red;">I expect to complete my Master's degree in June 2026 and am actively looking for a PhD position.</span>
+<span style="color: darkred;"><strong>I expect to complete my master's degree in June 2026 and am actively looking for a PhD position.</strong></span>
