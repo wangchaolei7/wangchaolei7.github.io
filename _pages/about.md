@@ -28,8 +28,10 @@ latest_posts:
 
 ---
 
-I am a master's student at the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) of [Sun Yat-sen University](https://www.sysu.edu.cn/), advised by [Prof. Yiping Chen](https://ting-devin-han.github.io/Epingpages.github.io/). I am also fortunate to collaborate with [Prof. Meiliu Wu](https://meiliuwu.github.io/) and [Prof. Jonathan Li](https://uwaterloo.ca/geospatial-intelligence/profiles/jonathan-li/) on my research. My research interests include computer vision and deep learning.
+I am a master's student at the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) of [Sun Yat-sen University](https://sges.sysu.edu.cn/teacher/1184), advised by [Prof. Yiping Chen](https://ting-devin-han.github.io/Epingpages.github.io/). I am also fortunate to collaborate with [Prof. Meiliu Wu](https://meiliuwu.github.io/) and [Prof. Jonathan Li](https://uwaterloo.ca/geospatial-intelligence/profiles/jonathan-li/) on my research. My research interests include computer vision and deep learning.
 
-My research centers on leveraging 2D vision-language models to advance 3D scene understanding. This exploration has broadened my focus towards the construction of GeoAI foundation models for geospatial applications. I am driven by a passion for exploring how cutting-edge vision and language technologies can be applied to large-scale point clouds and remote sensing data.
+<!-- My research centers on leveraging 2D vision-language models to advance 3D scene understanding. This exploration has broadened my focus towards the construction of GeoAI foundation models for geospatial applications. I am driven by a passion for exploring how cutting-edge vision and language technologies can be applied to large-scale point clouds and remote sensing data. -->
+
+My current research focuses on 3D reconstruction and scene understanding, with an emphasis on building structured and faithful representations of complex real-world environments from visual and spatial data. Looking ahead, I am interested in exploring world models that can move beyond static geometry to capture dynamics, context, and underlying physical regularities. More broadly, I am motivated by the goal of developing intelligent systems that can perceive, reconstruct, and reason about the 3D world.
 
 <span style="color: darkred;"><strong>I expect to complete my master's degree in June 2026 and am actively looking for a PhD position.</strong></span>
